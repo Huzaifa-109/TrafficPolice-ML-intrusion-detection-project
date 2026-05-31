@@ -258,8 +258,11 @@ Dashboard Displays Results
 
 Add your dashboard screenshot here if available:
 
-![Dashboard](assets/dashboard.png)
+![Dashboard](assets/dashboard_1.png)
 
+![Dashboard](assets/dashboard_2.png)
+
+![Dashboard](assets/dashboard_3.png)
 ---
 
 ## Deployment
@@ -289,10 +292,6 @@ AWS Elastic Beanstalk
         ↓
 Public Web Application
 ```
-
-Add deployment screenshot here if available:
-
-![Deployment](assets/deployment.png)
 
 ---
 
@@ -465,13 +464,6 @@ Possible future improvements include:
 * More advanced models such as XGBoost or LightGBM
 * Better frontend dashboard analytics
 * Authentication for uploaded traffic files
-
----
-
-## Authors
-
-* Huzaifa Amir
-* Mariam Atta
 
 ---
 
